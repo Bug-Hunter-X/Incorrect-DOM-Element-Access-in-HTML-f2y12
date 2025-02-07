@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug related to accessing DOM elements in HTML. The bug arises from using an incorrect method to get a reference to an element. The solution provides the correct way to access and manipulate the element.
